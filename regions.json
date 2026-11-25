@@ -1,6 +1,6 @@
 [
-  {"name": "New York", "address": "161.35.253.14"},
-  {"name": "Frankfurt", "address": "209.38.188.106"},
-  {"name": "Singapore", "address": "143.198.86.177"},
-  {"name": "Sydney", "address": "129.212.250.42"}
+  {"name": "New York", "address": "161.35.253.14", "door": 1},
+  {"name": "Frankfurt", "address": "209.38.188.106", "door": 2},
+  {"name": "Singapore", "address": "143.198.86.177", "door": 3},
+  {"name": "Sydney", "address": "129.212.250.42", "door": 0}
 ]
